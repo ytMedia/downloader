@@ -45,7 +45,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     <!-- Font-->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
     <!-- Bootstrap core CSS -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <style>
         body {
             font-family: 'Montserrat', sans-serif;
